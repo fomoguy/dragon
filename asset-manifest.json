@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f9d6593f.chunk.css",
+    "main.js": "/static/js/main.e060644c.chunk.js",
+    "main.js.map": "/static/js/main.e060644c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.480b8660.js",
+    "runtime-main.js.map": "/static/js/runtime-main.480b8660.js.map",
+    "static/js/2.7e9c2f42.chunk.js": "/static/js/2.7e9c2f42.chunk.js",
+    "static/js/2.7e9c2f42.chunk.js.map": "/static/js/2.7e9c2f42.chunk.js.map",
+    "static/js/3.583dce05.chunk.js": "/static/js/3.583dce05.chunk.js",
+    "static/js/3.583dce05.chunk.js.map": "/static/js/3.583dce05.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.f9d6593f.chunk.css.map": "/static/css/main.f9d6593f.chunk.css.map",
+    "static/js/2.7e9c2f42.chunk.js.LICENSE.txt": "/static/js/2.7e9c2f42.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/MilkyNice-Clean.f6fbbb8d.otf",
+    "static/media/arrow.71872259.svg": "/static/media/arrow.71872259.svg",
+    "static/media/dollar.5082d646.svg": "/static/media/dollar.5082d646.svg",
+    "static/media/logout.fb4d4931.svg": "/static/media/logout.fb4d4931.svg",
+    "static/media/main_logo.5a9a04e0.svg": "/static/media/main_logo.5a9a04e0.svg",
+    "static/media/rocket.f659c2fe.svg": "/static/media/rocket.f659c2fe.svg",
+    "static/media/sticker.449f275c.svg": "/static/media/sticker.449f275c.svg",
+    "static/media/wallet.2171079b.svg": "/static/media/wallet.2171079b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.480b8660.js",
+    "static/js/2.7e9c2f42.chunk.js",
+    "static/css/main.f9d6593f.chunk.css",
+    "static/js/main.e060644c.chunk.js"
+  ]
+}
